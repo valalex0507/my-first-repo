@@ -1,28 +1,26 @@
-# This is a large heading
+# Alex Popescu
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Timisoara, in the county of Timis, in the country
+of Romania.
 
-- This is
-- an unordered
-- list
+### Movies
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite movies are:
 
-Here is `some code` in the middle of a sentence.
+- *Kill Bill* 10/10
+- *Harry Potter* 8/10
+- *Fight Club* 9/10
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I love these dishes:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Pizza
+2. Pasta
+3. Burgers
+
+### Contact
+
+Use [facebook](https://www.facebook.com/alex.popescu.712).
